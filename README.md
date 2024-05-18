@@ -1,5 +1,7 @@
 # PCSE24-43
 #Medical Professional Remote Assistant System 
+
+
 #Abstract
 As technology continues to advance, the medical industry has increasingly turned to artificial intelligence (AI) to leverage its capabilities in improving healthcare outcomes. One of the key advantages of AI, particularly machine learning, lies in its ability to extract valuable insights from 
 the vast volumes of health data generated daily. This wealth of data, coupled with advancements in the Internet of Things (IoT), big data analytics, and high-performance computing, presents unprecedented opportunities to optimize public health efforts while mitigating the strain on limited human resources. 
